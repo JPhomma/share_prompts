@@ -1,5 +1,6 @@
 import { Inter } from 'next/font/google'
 // all pages will inherit global css classes
+//merge test update
 import './globals.css'
 
 const inter = Inter({ subsets: ['latin'] })
